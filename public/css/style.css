@@ -566,6 +566,10 @@ video {
   bottom: 30px;
 }
 
+.top-\[74px\] {
+  top: 74px;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -682,6 +686,10 @@ video {
 
 .pt-\[20px\] {
   padding-top: 20px;
+}
+
+.pt-\[74px\] {
+  padding-top: 74px;
 }
 
 .text-center {
