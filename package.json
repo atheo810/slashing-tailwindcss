@@ -1,0 +1,14 @@
+{
+  "name": "slahsing",
+  "version": "1.0.0",
+  "description": "membuat slashing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "atheo810",
+  "license": "ISC"
+}
