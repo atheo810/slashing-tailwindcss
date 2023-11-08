@@ -10,5 +10,8 @@
     "tailwindcss"
   ],
   "author": "atheo810",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
 }
